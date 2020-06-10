@@ -1,0 +1,35 @@
+* {
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.container {
+  width: 800px;
+  height: 400px;
+  margin: auto;
+  margin-top: 100px;
+  display: flex;
+  background-color: #0c090d;
+  padding-top: 20px;
+}
+
+.desc {
+  padding: 50px;
+  padding-top: 0;
+  color: blanchedalmond;
+}
+
+.img {
+  border-color: black;
+  padding: 20px;
+}
+
+img {
+  width: 200px;
+}
+
+button {
+  border: 0;
+  width: 80px;
+  height: 30px;
+  background-color: blanchedalmond;
+}
